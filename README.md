@@ -8,7 +8,6 @@
 .
 ├── ai-dev-pipeline/      # ai-dev-pipeline Skill 源文件
 │   └── SKILL.md
-├── .workbuddy/          # WorkBuddy 工作数据（不上传）
 └── README.md
 ```
 
